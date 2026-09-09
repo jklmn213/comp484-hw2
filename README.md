@@ -1,4 +1,4 @@
-# COMP 484 HW2
+# CIT 384 HW2
 
 ## GitHub Pages Website
 
